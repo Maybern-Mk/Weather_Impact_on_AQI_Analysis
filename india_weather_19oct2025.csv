@@ -1,0 +1,8 @@
+city,date,time,tempC,precipMM,windspeedKmph,weatherDesc,humidity,cloudcover
+"Bengaluru, Karnataka",2025-10-19,20:00,22,1.7,13,Light rain shower,92,75
+"Mumbai, Maharashtra",2025-10-19,20:00,29,0.0,8,Clear,67,14
+"Chennai, Tamil Nadu",2025-10-19,20:00,26,0.0,12,Cloudy,84,72
+"Kolkata, West Bengal",2025-10-19,20:00,28,0.0,1,Partly cloudy,65,33
+"Delhi, Delhi",2025-10-19,20:00,30,0.0,7,Clear,30,5
+"Hyderabad, Telangana",2025-10-19,20:00,23,0.0,12,Clear,77,11
+"Jaipur, Rajasthan",2025-10-19,20:00,26,0.0,6,Clear,37,3
